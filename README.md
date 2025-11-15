@@ -155,7 +155,7 @@ O algoritmo:
 ## Demonstração
 
 ### **Menu Inicial**
-![Menu Inicial](./prints/menu.jpg)
+(./prints/menu.jpg)
 
 ### **Criação de Perfil**
 ![Perfil](./prints/perfil.jpg)
