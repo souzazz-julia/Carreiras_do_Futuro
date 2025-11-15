@@ -20,7 +20,7 @@ def preencher_competencias(perfil: Perfil, recomendador: Recomendador):
 
     As respostas são gravadas no objeto Perfil.
     """
-    print("\n=== Questionário de Competências ===")
+    print("\nQuestionário de Competências")
     print("Avalie cada competência de 0 a 10.")
     print("0 = não tenho essa habilidade | 10 = muito forte em mim\n")
 
