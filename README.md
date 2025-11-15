@@ -154,39 +154,14 @@ O algoritmo:
 
 ## Demonstração
 
-### **1️⃣ Menu Inicial**
+### ** Menu Inicial**
 ![Menu Inicial](./prints/menu.jpg)
 
-### **2️⃣ Criação de Perfil**
+### ** Criação de Perfil**
 ![Perfil](./prints/perfil.jpg)
 
-### **3️⃣ Questionário de Competências**
+### ** Questionário de Competências**
 ![Competências](./prints/competencias.jpg)
 
-### **4️⃣ Recomendações de Carreira**
+### ** Recomendações de Carreira**
 ![Recomendações](./prints/recomendacoes.jpg)
-
-> As imagens devem estar na pasta `/prints` do repositório.
-
----
-
-## 🌍 Conexão com o Tema “Future Skills Lab”
-
-Este projeto foi desenvolvido para refletir as habilidades essenciais no futuro do trabalho:
-
-- pensamento crítico  
-- criatividade  
-- adaptabilidade  
-- resolução de problemas  
-- visão de negócios  
-- domínio de tecnologias emergentes  
-
-O simulador apoia o usuário a entender suas forças e possíveis caminhos profissionais.
-
----
-
-## 👤 Autora
-
-**Julia Antonia Claudia Cipriano Lopes – RM XXXXXXX**
-
----
