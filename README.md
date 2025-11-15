@@ -1,6 +1,6 @@
 # Future Skills Lab — Orientação de Carreiras do Futuro
 
-Projeto desenvolvido para a **Global Solution 2025.2** de **Pensamento Computacional e Automação com Python**.
+Projeto desenvolvido para a **Global Solution 2025.2** de **Pensamento Computacional e Automação com Python da FIAP**.
 
 O objetivo é simular uma ferramenta inteligente de **orientação de carreiras**, focada em
 **profissionais do futuro**. A aplicação analisa um conjunto de competências técnicas e
@@ -154,14 +154,14 @@ O algoritmo:
 
 ## Demonstração
 
-### ** Menu Inicial**
+### **Menu Inicial**
 ![Menu Inicial](./prints/menu.jpg)
 
-### ** Criação de Perfil**
+### **Criação de Perfil**
 ![Perfil](./prints/perfil.jpg)
 
-### ** Questionário de Competências**
+### **Questionário de Competências**
 ![Competências](./prints/competencias.jpg)
 
-### ** Recomendações de Carreira**
+### **Recomendações de Carreira**
 ![Recomendações](./prints/recomendacoes.jpg)
